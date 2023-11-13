@@ -1,4 +1,4 @@
-## Implementation-of-Sentimental-Analysis
+# Implementation-of-Sentimental-Analysis
 
 ## The process of sentiment analysis using VADER model can be described as follows:
 
