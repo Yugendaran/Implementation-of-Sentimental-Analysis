@@ -1,8 +1,7 @@
 ## Implementation-of-Sentimental-Analysis
-## Aim:
-The process of sentiment analysis using VADER model can be described as follows
 
-## Algorithm:
+## The process of sentiment analysis using VADER model can be described as follows:
+
 * Read the input text:The first step is to read the input text. This can be done using a variety of methods, such as reading a file, receiving input from a user, or scraping text from a website.
 
 * Clean the text: Once the text has been read, it is important to clean it. This involves removing any punctuation, stop words, or other noise that could interfere with the sentiment analysis process.
